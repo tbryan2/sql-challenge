@@ -1,6 +1,9 @@
 # sql-challenege
 
 ------------------------------------------------------------------ CREATE TABLES--------------------------------------------------------------------
+
+
+
 CREATE TABLE "Employees" (
     "emp_no" int   NOT NULL,
     "emp_title_id" VARCHAR   NOT NULL,
